@@ -1,4 +1,4 @@
-package com.snym.builder.builder2;
+package com.snym.creational.builder.builder2;
 
 /**
  * 概念：将一个复杂对象的构建与其表示分离，使得同样的构建过程可以创建不同的表示

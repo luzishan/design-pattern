@@ -1,4 +1,4 @@
-package com.snym.builder.builder1;
+package com.snym.creational.builder.builder1;
 
 /**
  * 建造房子的基本结构

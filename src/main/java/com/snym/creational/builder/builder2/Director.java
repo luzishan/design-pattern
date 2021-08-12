@@ -1,4 +1,4 @@
-package com.snym.builder.builder2;
+package com.snym.creational.builder.builder2;
 
 public class Director {
 

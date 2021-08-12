@@ -1,4 +1,4 @@
-package com.snym.builder;
+package com.snym.creational.builder.builder1;
 
 /**
  * 抽象建造者

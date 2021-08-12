@@ -1,4 +1,4 @@
-package com.snym.builder.builder1;
+package com.snym.creational.builder.builder1;
 
 public class TestMain {
 
